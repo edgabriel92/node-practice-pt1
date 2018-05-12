@@ -1,0 +1,22 @@
+{
+  "name": "read-a-file",
+  "version": "1.0.0",
+  "description": "this package reads a file",
+  "main": "example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edgabriel92/node-practice-pt1.git"
+  },
+  "keywords": [
+    "nodepart1"
+  ],
+  "author": "Gabriel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edgabriel92/node-practice-pt1/issues"
+  },
+  "homepage": "https://github.com/edgabriel92/node-practice-pt1#readme"
+}
